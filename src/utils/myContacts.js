@@ -16,7 +16,7 @@ const contacts = [
   },
   {
     title: 'linkedin.com/in/yurii-ishchenko-react',
-    url: 'linkedin.com/in/yurii-ishchenko-react',
+    url: 'https://www.linkedin.com/in/yurii-ishchenko-react',
     icon: AiFillLinkedin,
   },
 ];
