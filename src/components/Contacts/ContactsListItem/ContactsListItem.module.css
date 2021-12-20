@@ -1,0 +1,19 @@
+.item {
+  display: flex;
+}
+.item:hover .link {
+  color: #ff7011;
+}
+.icon {
+  color: white;
+}
+.iconContainer {
+  margin-right: 20px;
+}
+.item:hover .icon {
+  color: #ff7011;
+}
+.link {
+  color: white;
+  text-decoration: none;
+}

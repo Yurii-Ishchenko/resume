@@ -1,0 +1,12 @@
+.container {
+  padding-left: 90px;
+  padding-right: 90px;
+  padding-top: 110px;
+  padding-bottom: 110px;
+}
+.profession {
+  color: #ff7011;
+}
+.name {
+  font-size: 45px;
+}

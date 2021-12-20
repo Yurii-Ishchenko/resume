@@ -1,0 +1,11 @@
+.title {
+  color: white;
+  text-align: center;
+}
+.list {
+  list-style: none;
+  color: white;
+}
+.list li:hover {
+  color: #ff6b08;
+}

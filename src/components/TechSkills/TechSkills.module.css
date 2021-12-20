@@ -1,0 +1,14 @@
+.title {
+  color: white;
+  text-align: center;
+}
+
+.list {
+  list-style: none;
+}
+.item {
+  color: white;
+}
+.item:hover {
+  color: #ff6b08;
+}
