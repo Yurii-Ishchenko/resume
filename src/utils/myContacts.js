@@ -3,7 +3,11 @@ import { BsFillEnvelopeFill } from 'react-icons/bs';
 import { GiSmartphone } from 'react-icons/gi';
 
 const contacts = [
-  { title: '+38(098)-26-37-74', url: '+38(098)-26-37-74', icon: GiSmartphone },
+  {
+    title: '+38(098)-286-37-74',
+    url: '+38(098)-286-37-74',
+    icon: GiSmartphone,
+  },
   {
     title: 'yuriyich123@gmail.com',
     url: 'yuriyich123@gmail.com',
