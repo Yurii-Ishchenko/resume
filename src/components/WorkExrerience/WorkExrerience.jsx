@@ -1,4 +1,4 @@
-import s from "./WorkExrerience.module.css";
+import s from './WorkExrerience.module.css';
 
 export default function WorkExrerience() {
   return (
@@ -16,6 +16,9 @@ export default function WorkExrerience() {
       <span className={s.professionTime}>
         September 2018 - October 2021 | Ukraine
       </span>
+      <hr />
+      <h3 className={s.profession}>Front-end (React) developer </h3>
+      <span className={s.professionTime}>October 2021 | Ukraine</span>
     </div>
   );
 }

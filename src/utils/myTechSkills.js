@@ -11,7 +11,6 @@ const techSkills = [
   'Webpack',
   'REST API',
   'GraphQL',
-  'Jest',
 ];
 
 export default techSkills;
